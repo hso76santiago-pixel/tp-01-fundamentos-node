@@ -1,6 +1,11 @@
 
 # Trabajo práctico 01
 
+## Datos Personales
+Nombre y Apellido: Héctor Santiago Orellana Gonzalez
+Correo Electrónico: hso76santiago@gmail.com
+teléfono: 3834-801585
+
 ## Descripción
 Este proyecto construye un script en Node.js que procesa datos de la ficha de una pelicula e imprime su ficha técnica estructurada en la consola y en un archivo de texto. Además, incluye un script secundario para analizar el orden de ejecución de tareas en el entorno de Node.js.
 
